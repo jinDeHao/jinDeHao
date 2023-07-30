@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)]
 <h1 align="center">Hi 👋, I'm Omar ID HMAID</h1>
 <h3 align="center">A passionate and motivated C programmer and a student at ALX SE from morocco</h3>
-<img align="right" alt="Coding" width="400" scr="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" scr="[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindehao&label=Profile%20views&color=0e75b6&style=flat" alt="jindehao" /> </p>
 
