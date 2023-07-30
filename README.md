@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)]
+![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Omar ID HMAID</h1>
 <h3 align="center">A passionate and motivated C programmer and a student at ALX SE from morocco</h3>
 <img align="right" width="400" scr="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif">
