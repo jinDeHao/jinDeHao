@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/o_idhmaid" target="blank"><img src="https://img.shields.io/twitter/follow/o_idhmaid?logo=twitter&style=for-the-badge" alt="o_idhmaid" /></a> </p>
 
-- 🔭 I’m currently working on [Tashlhet translater](https://github.com/jinDeHao/Super_Translator)
+- 🔭 I’m currently working on [CMS Desktop application](https://github.com/badrxd/CMS)
 
 - 🎮 I love palying [FIFA, Chess and GTA V](FIFA, Chess and GTA V)
 
