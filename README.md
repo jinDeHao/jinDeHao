@@ -29,3 +29,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jinDeHao&show_icons=true&theme=radical" alt="Your Name's GitHub stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinDeHao&theme=radical" alt="Your Name's GitHub contributions">
 </p>
+
+
+### 🔝 Top Contributed Repo 
+ ![](https://github-contributor-stats.vercel.app/api?username=jinDeHao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
+  
+ [![](https://visitcount.itsvg.in/api?id=jinDeHao&icon=0&color=0)](https://visitcount.itsvg.in)
