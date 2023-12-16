@@ -30,7 +30,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinDeHao&theme=radical" alt="Your Name's GitHub contributions">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-asmaa&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="h-asmaa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="jinDeHao" /></p>
 
  ![](https://github-contributor-stats.vercel.app/api?username=jinDeHao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) 
   
