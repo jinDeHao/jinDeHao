@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CMS Desktop application](https://github.com/badrxd/CMS) and [my programming language](https://github.com/jinDeHao/my_interpreter_v1)
 
-- 🎮 I play ![FIFA 19](https://www.ea.com/fr-fr/games/fifa/news/fifa-19-pc-specs)
+- 🎮 I play [FIFA 19](https://www.ea.com/fr-fr/games/fifa/news/fifa-19-pc-specs)
 
 - 📫 How to reach me **o.idhmaid@gmail.com**
 
