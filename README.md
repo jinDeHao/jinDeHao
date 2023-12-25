@@ -25,14 +25,14 @@
 
 [![committers.top badge](https://user-badge.committers.top/morocco_public/jinDeHao.svg)](https://user-badge.committers.top/morocco_public/jinDeHao)
 
-<p align= "center" width = "100%">
-<img src="https://github-readme-stats.vercel.app/api?username=jinDeHao&show_icons=true&theme=radical" alt="Your Name's GitHub stats">
+<div width = "100%">
+<img align= "center" src="https://github-readme-stats.vercel.app/api?username=jinDeHao&show_icons=true&theme=radical" alt="Your Name's GitHub stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&show_icons=true&theme=radical" alt="Languages">
+<img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&show_icons=true&theme=radical" alt="Languages">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jinDeHao&theme=radical" alt="Your Name's GitHub contributions">
-</p>
+<img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinDeHao&theme=radical" alt="Your Name's GitHub contributions">
+</div>
 
 
 
