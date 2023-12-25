@@ -25,7 +25,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/morocco_public/jinDeHao.svg)](https://user-badge.committers.top/morocco_public/jinDeHao)
 
-<div align= "center" width = "100%">
+<div align = "center" width = "100%">
 <img src="https://github-readme-stats.vercel.app/api?username=jinDeHao&show_icons=true&theme=radical" alt="Your Name's GitHub stats"><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&show_icons=true&theme=radical" alt="Languages"><br>
