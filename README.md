@@ -28,9 +28,8 @@
 <div align = "center" width = "100%">
 <img src="https://github-readme-stats.vercel.app/api?username=jinDeHao&show_icons=true&theme=radical" alt="Your Name's GitHub stats">
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&show_icons=true&theme=radical" alt="Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&show_icons=true&theme=radical" alt="Languages">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinDeHao&theme=radical" alt="Your Name's GitHub contributions">
 </div>
