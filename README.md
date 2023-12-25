@@ -32,9 +32,7 @@
 
 
 <img align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinDeHao&theme=radical" alt="Your Name's GitHub contributions">
+
+<img align= "center" src="https://github-contributor-stats.vercel.app/api?username=jinDeHao&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
-
-
-
- ![](https://github-contributor-stats.vercel.app/api?username=jinDeHao&limit=5&theme=radical&combine_all_yearly_contributions=true) 
   
