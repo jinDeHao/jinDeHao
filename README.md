@@ -35,4 +35,10 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=jinDeHao&limit=5&theme=radical&combine_all_yearly_contributions=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinDeHao&show_icons=true&theme=radical" alt="Languages"><br>
 </div>
+
+
+<div align = "center"> 
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jinDeHao/jinDeHao/output/github-contribution-grid-snake.svg" /> 
+   <br/> 
+ </div>
   
